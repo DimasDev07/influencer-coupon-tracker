@@ -1,5 +1,5 @@
 === Influencer Coupon Tracker ===
-Contributors: yourname
+Contributors: Dimas Bueno
 Tags: woocommerce, coupon, influencer, tracking, commission, affiliate
 Requires at least: 5.0
 Tested up to: 6.4
@@ -54,12 +54,6 @@ You can choose between:
 = Can I export the data? =
 
 Yes, you can export all tracking data to CSV format with current filters applied.
-
-== Screenshots ==
-
-1. Main dashboard with coupon performance overview
-2. Coupon detail page with order list
-3. Influencer settings on coupon edit page
 
 == Changelog ==
 

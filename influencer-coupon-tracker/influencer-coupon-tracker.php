@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Influencer Coupon Tracker
- * Plugin URI: https://example.com/influencer-coupon-tracker
+ * Plugin URI: https://github.com/DimasDev07/influencer-coupon-tracker
  * Description: Track WooCommerce coupon usage by influencers. Monitor ROI, calculate commissions, and export reports.
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://example.com
+ * Author: Dimas Bueno
+ * Author URI: https://github.com/DimasDev07/
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: influencer-coupon-tracker
